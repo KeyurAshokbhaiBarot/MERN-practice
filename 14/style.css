@@ -1,0 +1,33 @@
+p{
+    
+    font-size: 20px;
+    
+    font-family: 'Playfair Display', serif;
+    font-weight: 100;
+    line-height: 30px;
+
+
+    
+}
+
+#firstPara{
+    background-color: yellow;
+    color: blue;
+}
+
+#secondPara{
+    background-color: rgb(146, 114, 209);
+}
+
+#thirdPara{
+    background-color: rgba(66, 176, 86, 0.5);
+    
+}
+
+.FirstClass{
+    background-color: #f542cb82;
+}
+
+.hslPara{
+    background-color: hsl(64, 50%, 67%);
+}
